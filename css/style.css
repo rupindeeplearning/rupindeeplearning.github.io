@@ -95,6 +95,24 @@ a:hover {
 	text-align: justify;
 	clear: both;
 }
+.left-panel-in ul {
+	list-style-type: none;
+}
+
+.left-panel-in ul li {
+	padding-top: 8px;
+	padding-bottom: 8px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #CCCCCC;
+}
+.left-panel-in ul li a {
+	color: #003366;
+	text-decoration: none;
+}
+.left-panel-in ul li a:hover {
+	text-decoration: underline;
+}
 .title {
 	font-size: 18px;
 	font-weight: normal;
